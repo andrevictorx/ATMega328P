@@ -142,8 +142,8 @@ This repository aims to:
 Electrical Engineering – UFPR  
 Focus on Embedded Electronic Systems  
 
-🔗 LinkedIn: *(add link here)*  
-📧 Email: *(add email here)*  
+🔗 LinkedIn: *https://www.linkedin.com/in/andre-victor-xavier-pires/*  
+📧 Email: *andrevictorxavierpires@gmail.com*  
 
 ---
 
